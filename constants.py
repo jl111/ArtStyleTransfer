@@ -1,3 +1,5 @@
+
+# -*- coding: utf-8 -*-
 import numpy as np
 
 STYLE_LAYERS = [
@@ -13,5 +15,7 @@ MEANS = np.array([123.68, 116.779, 103.939]).reshape((1,1,1,3))
 VGG_MODEL = './imagenet-vgg-verydeep-19.mat'
 OUTPUT_DIR = 'output/'
 INPUT_DIR = 'images/'
+ALPHA = 20
+BETA = 50
 
-ITER = 1
+ITER = 200

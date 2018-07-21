@@ -7,7 +7,7 @@ My network follows the architecture of the VGG network and uses the weights from
 The style layers, and loss functions follow the implenetation of the network from the paper "Neural Algorithm of Artistic Style" (Gatys,Ecker,Bethge). 
 
 
-## Example  
+## Example 
 
 
 ## How to run
