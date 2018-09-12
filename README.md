@@ -4,7 +4,7 @@ A simple deep convolutional neural network to transfer styles from one image ont
 
 My network follows the architecture of the VGG network and uses the weights from imagenet-vgg-verydeep-19.mat.
 
-The style layers, and loss functions follow the implenetation of the network from the paper "Neural Algorithm of Artistic Style" (Gatys,Ecker,Bethge). 
+The style layers, and loss functions follow the implemetation of the network from the paper "Neural Algorithm of Artistic Style" (Gatys,Ecker,Bethge). 
 
 
 ## Example 
